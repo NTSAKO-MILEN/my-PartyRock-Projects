@@ -1,0 +1,13 @@
+{
+  "name": "ai-feedback-processor",
+  "version": "1.0.0",
+  "description": "AI Feedback Processor Frontend",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": ["ai", "feedback", "processor"],
+  "author": "",
+  "license": "MIT"
+}
